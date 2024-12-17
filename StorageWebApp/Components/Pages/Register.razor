@@ -1,0 +1,43 @@
+﻿@page "/register"
+
+@inject ApplicationDbContext DbContext
+@inject NavigationManager NavigationManager
+
+<h3>Regisztráció</h3>
+
+<form method="post" @onsubmit="RegisterUser">
+    <div>
+        <label for="name">Név:</label>
+        <input type="text" id="name" @bind="NewUser.Name" required />
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" @bind="NewUser.Email" required />
+    </div>
+    <div>
+        <label for="password">Jelszó:</label>
+        <input type="password" id="password" @bind="NewUser.Password" required />
+    </div>
+    <button type="submit">Regisztráció</button>
+</form>
+
+@code {
+    private User NewUser = new User();
+
+    private async Task RegisterUser()
+    {
+        if (!string.IsNullOrEmpty(NewUser.Name) && !string.IsNullOrEmpty(NewUser.Email) && !string.IsNullOrEmpty(NewUser.Password))
+        {
+            DbContext.Users.Add(NewUser); // Adat hozzáadása a Users táblához
+            await DbContext.SaveChangesAsync(); // Változtatások mentése
+
+            // Visszairányítás a bejelentkezési oldalra
+            NavigationManager.NavigateTo("/login");
+        }
+        else
+        {
+            // Handle invalid model (e.g., show validation messages)
+            Console.WriteLine("Invalid registration data.");
+        }
+    }
+}
