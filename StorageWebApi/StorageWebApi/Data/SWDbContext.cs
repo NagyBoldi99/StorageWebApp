@@ -15,5 +15,6 @@ namespace StorageWebApi.Data
             optionsBuilder.UseInMemoryDatabase("StorageDB");
         }
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<Storage> Storages { get; set; }
     }
 }

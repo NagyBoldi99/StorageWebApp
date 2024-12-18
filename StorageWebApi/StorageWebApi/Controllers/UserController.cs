@@ -24,14 +24,14 @@ namespace StorageWebApi.Controllers
             return Ok();
         }
         [HttpPut]
-        public ActionResult LoginUser(LoginUserDto dto)
+        public ActionResult<string> LoginUser(LoginUserDto dto)
         {
             var result = _userservice.Login(dto);
-            if (result == false)
+            if (result == string.Empty)
             {
                 return BadRequest();
             }
-            return Ok();
+            return Ok(result);
         }
     }
 

@@ -35,21 +35,21 @@ namespace StorageWebApi.Services
             return true;
 
         }
-        public bool Login(LoginUserDto dto)
+        public string Login(LoginUserDto dto)
         {
 
             var entity = _usersrepo.GetUserByEmail(dto.Email);
             if (entity == null)
             {
-                return false;
+                return string.Empty;
             }
             var salt = Convert.FromBase64String(entity.Salt);
             var passwordHash = HashPassword(dto.Password, salt);
             if (passwordHash.Equals(entity.PasswordHash))
             {
-                return true;
+                return entity.Id.ToString();
             }
-            return false;
+            return string.Empty;
         }
         private string HashPassword(string password, byte[] salt)
         {

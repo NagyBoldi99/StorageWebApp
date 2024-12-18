@@ -1,7 +1,10 @@
-﻿namespace StorageWebApi.Data.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace StorageWebApi.Data.Models
 {
     public class User
     {
+        [Key]
         public Guid Id { get; set; } = Guid.NewGuid();
         public string Name { get; set; }
         public string Email { get; set; }
