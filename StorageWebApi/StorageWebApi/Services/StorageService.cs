@@ -17,16 +17,18 @@ namespace StorageWebApi.Services
         public void CreateStorage(CreateStorageDto dto)
         {
 
-                    
+
             var storage = new Storage
             {
                 Sid = Guid.NewGuid(),
                 Sname = dto.Sname,
                 Sdescription = dto.Sdescription,
-                Sarea = dto.Sarea,              
-                Owner = dto.OwnerId != null ? _usersRepo.GetUser(dto.OwnerId.Value) : null
+                Sarea = dto.Sarea,
+                OwnerId = dto.OwnerId != Guid.Empty
+                  ? dto.OwnerId
+                  : Guid.Empty
             };
-            
+
             _storagesRepo.AddStorage(storage);
         }
 

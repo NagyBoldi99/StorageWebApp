@@ -26,7 +26,12 @@ namespace StorageWebApi.Data.Repositories
 
         public IEnumerable<Storage> GetByOwnerId(Guid ownerId)
         {
-            return _dbContext.Storages.Include(s=>s.Owner).Where(s => s.Owner.Id == ownerId).ToList();
+            if (ownerId == Guid.Empty)
+            {
+                return new List<Storage>();
+            }
+
+            return _dbContext.Storages.Where(s => s.OwnerId == ownerId).ToList();
         }
 
         public void AddStorage(Storage storage)

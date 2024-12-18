@@ -3,56 +3,32 @@
   "WorkspaceRootPath": "D:\\github\\StorageWebApp\\StorageWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\dto\\createstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\storagesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\storagesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\storagesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\storagesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,8 +39,36 @@
       "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\dto\\registrationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\swdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\swdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\repositories\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\repositories\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\data\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|solutionrelative:storagewebapi\\data\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B47390-61DC-429F-8341-CA63647E5A76}|StorageWebApi\\StorageWebApi.csproj|d:\\github\\storagewebapp\\storagewebapi\\storagewebapi\\storagewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,124 +90,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StorageService.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\StorageService.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Services\\StorageService.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\StorageService.cs",
-              "RelativeToolTip": "StorageWebApi\\Services\\StorageService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:57:48.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StoragesRepo.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADgvxQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:56:34.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsersRepo.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:09:11.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SWDbContext.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\SWDbContext.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\SWDbContext.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\SWDbContext.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\SWDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:03:57.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StorageController.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Controllers\\StorageController.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Controllers\\StorageController.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Controllers\\StorageController.cs",
-              "RelativeToolTip": "StorageWebApi\\Controllers\\StorageController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:37:55.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Program.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Program.cs",
-              "RelativeToolTip": "StorageWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:01:42.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Services\\UserService.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\UserService.cs",
-              "RelativeToolTip": "StorageWebApi\\Services\\UserService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:23:20.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Storage.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\Storage.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Models\\Storage.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\Storage.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\Models\\Storage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:49:37.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "StorageWebApi\\Data\\Models\\User.cs",
               "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\User.cs",
               "RelativeToolTip": "StorageWebApi\\Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T12:15:26.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "StoragesRepo.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\StoragesRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:56:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Models\\Storage.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Models\\Storage.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\Models\\Storage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:49:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationUserDto.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:23:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:13:14.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CreateStorageDto.cs",
               "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\CreateStorageDto.cs",
               "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\CreateStorageDto.cs",
@@ -212,19 +164,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:40:45.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsersRepo.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:10:40.862Z",
               "EditorCaption": ""
             },
             {
@@ -242,7 +181,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Controllers\\StorageController.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "StorageWebApi\\Controllers\\StorageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:37:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Services\\StorageService.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\StorageService.cs",
+              "RelativeToolTip": "StorageWebApi\\Services\\StorageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:57:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersRepo.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\UsersRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:10:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SWDbContext.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\SWDbContext.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\SWDbContext.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\SWDbContext.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\SWDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:03:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Services\\IStorageService.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\IStorageService.cs",
+              "RelativeToolTip": "StorageWebApi\\Services\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:05:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "StorageWebApi\\Services\\IUserService.cs",
@@ -255,7 +259,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Services\\UserService.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Services\\UserService.cs",
+              "RelativeToolTip": "StorageWebApi\\Services\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:23:20.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsersRepo.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
+              "RelativeToolTip": "StorageWebApi\\Data\\Repositories\\IUsersRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:09:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StorageWebApi\\Program.cs",
+              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Program.cs",
+              "RelativeToolTip": "StorageWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:01:42.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\LoginUserDto.cs",
@@ -263,38 +304,11 @@
               "RelativeToolTip": "StorageWebApi\\Data\\DTO\\LoginUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T19:13:28.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T19:13:28.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegistrationUserDto.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\DTO\\RegistrationUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:23:55.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
-              "ToolTip": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
-              "RelativeToolTip": "StorageWebApi\\Data\\DTO\\UserCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:13:14.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "StorageWebApi.csproj",
               "DocumentMoniker": "D:\\github\\StorageWebApp\\StorageWebApi\\StorageWebApi\\StorageWebApi.csproj",
               "RelativeDocumentMoniker": "StorageWebApi\\StorageWebApi.csproj",

@@ -10,7 +10,7 @@ namespace StorageWebApi.Data.Models
         public string Sname { get; set; }
         public string Sdescription { get; set; }
         public int Sarea { get; set; }
-        public User? Owner { get; set; } = null;
+        public Guid? OwnerId { get; set; } = Guid.Empty;
 
     }
 }
